@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+    <item
+        android:title="Book"
+        android:id="@+id/book"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        />
+    <item
+        android:title="User"
+        android:id="@+id/user"
+        android:icon="@drawable/ic_baseline_people_24"
+        />
+    <item
+        android:title="Rank"
+        android:id="@+id/rank"
+        android:icon="@drawable/ic_baseline_star_rate_24"
+        />
+</menu>
